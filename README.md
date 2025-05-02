@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 12.12.2024
+# Ex. No: 5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+### DATE: 2.05.2024
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -47,15 +47,13 @@
 ###   2.	Move the y-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the y-axis assembly.
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
-## OUTPUT
+
 ![WhatsApp Image 2024-12-12 at 10 39 21 AM](https://github.com/user-attachments/assets/bfd156cc-d4ce-4300-bb26-21c212a19e00)
 ![WhatsApp Image 2024-12-12 at 10 39 22 AM](https://github.com/user-attachments/assets/cd94266a-abe8-40a1-8e2b-b7fbef43dfca)
 ![WhatsApp Image 2024-12-12 at 10 39 23 AM](https://github.com/user-attachments/assets/571922f1-06ef-4ab3-8a5c-ef8ce657b992)
 ![WhatsApp Image 2024-12-12 at 10 39 24 AM](https://github.com/user-attachments/assets/031b0e1a-6b97-472d-8d8c-1fea43f364e8)
 
-
-![Screenshot (1)](https://github.com/user-attachments/assets/ae3ed2b7-ec3d-4543-a028-2698590a8441)
-
+![Screenshot 2025-05-02 102956](https://github.com/user-attachments/assets/0229d8b0-59f0-45a4-b8b2-322a8b10ed55)
 
 
 
@@ -66,8 +64,13 @@
 
 
 
-### Name: Jassir Sulthan K
-### Register Number:24901084
+
+
+
+
+
+### Name: Sharon Arul Bharathi.J.F
+### Register Number:212224100056
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
